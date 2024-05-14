@@ -1,10 +1,10 @@
-package com.android.safeline.config;
+package com.android.sheguard.config;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.android.safeline.BuildConfig;
-import com.android.safeline.SafeLine;
+import com.android.sheguard.BuildConfig;
+import com.android.sheguard.SafeLine;
 
 @SuppressWarnings("unused")
 public class Prefs {
