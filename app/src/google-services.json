@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972219597188",
+    "project_id": "women-safety-766ab",
+    "storage_bucket": "women-safety-766ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972219597188:android:aa85a963d15b130d83ddd1",
+        "android_client_info": {
+          "package_name": "com.android.sheguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4sa1mENasJLj0AUaJc58bKhu0kxvN_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
