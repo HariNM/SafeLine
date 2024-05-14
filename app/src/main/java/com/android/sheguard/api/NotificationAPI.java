@@ -13,7 +13,7 @@ public interface NotificationAPI {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAA4lzNwYQ:APA91bEvKfBcFQ0JN7isT7Oir44FeeyPjdSb05_n0tl-IoiCwDkrY-FiXZUrJColOGYHqY1aCj4NEkc64jPqk0OAe2jkspWE4ZFvzNsp31ygsM_fwGawvU6E5C389DhD2NPRbBdWtG40"
+                    "Authorization:key= XXXXXXXXXXXX" //replace with your own authorization key which you get from Firbase
             }
     )
 
