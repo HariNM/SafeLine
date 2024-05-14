@@ -1,4 +1,4 @@
-package com.android.safeline.common;
+package com.android.sheguard.common;
 
 public class Constants {
 
